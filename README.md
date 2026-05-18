@@ -7,6 +7,7 @@ I am a **Full-Stack Developer** and **BCA Graduate** passionate about building e
 **Database** MySQL, PostgreSQL, Database Normalization
 **UI/UX Design** Figma, CSS3, HTML5
 **Workflow** Git, GitHub, SDLC Fundamentals
+
 **Connect with me:** [akashprasad200324@gmail.com](mailto:akashprasad200324@gmail.com)
 - 📍 **Location:** Nashik, Maharashtra,India
 - 💼 **Availability:** Open to Full-Stack Developer Roles (Fresher)
