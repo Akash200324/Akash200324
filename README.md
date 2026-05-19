@@ -1,42 +1,38 @@
-# Hey there! 👋 I'm [Your Name]
+# Hey there! 👋 I'm Akash Prasad
 
-### ✨ A passionate Full Stack Developer from [Your Country/City] 🌍
+### ✨ An aspiring Software Developer currently living in Nashik Maharashtra , India 
 
-<img src="https://raw.githubusercontent.com/abressiddique/abressiddique/main/assets/header.png" alt="Header Image" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Akash%20Prasad&fontSize=70" width="100%" />
 
-### 🌱 Currently Learning
-Exploring new technologies, architectures, and optimizing development workflows.
+### 🌱 Currently Learning & Building
+Deepening my knowledge in Full-Stack Web Development, system architecture, and optimization workflows to build scalable digital solutions.
 
-### 👨‍💻 Projects
-🚀 [Check out my portfolio](Your_Portfolio_Link_Here)
+### 👨‍💻 Education & Training
+* 🎓 **Bachelor of Computer Applications (BCA)** – Mahatma Gandhi University, Kottayam (2021 – 2024)
+* 📜 **Python Full Stack Web Development Certification** – Softern Technologies
 
 ### 💬 Ask me about
-MERN Stack, Next.js, Data Structures & Algorithms.
+Python, Django, SQL, Web Development, and Database Management.
 
 ### 📫 Get in Touch
-[Email Me](mailto:your.email@example.com)
+* 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/akash-prasad-523003307/)
 
-### 📄 My Resume
-📝 [View Here](Your_Resume_Link_Here)
-
-### 🔗 Let's Connect!
-<p align="left">
-<a href="https://twitter.com/your_username" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://linkedin.com/in/your_username" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/your_username" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
+---
 
 ### 🛠️ Languages and Tools:
 <p align="left"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"/>
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="sql"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="aws"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
 </p>
 
-### 🌟 About Me 🌟
-Hello! I'm [Your Name], a passionate Full-Stack Developer 💻. I specialize in building web applications using modern tech stacks. I love strategic problem-solving, continuous learning, and optimizing processes to achieve impactful results. 
+---
 
-My motto is simple — *Plan. Execute. Evolve.* 🚀
+### 🌟 About Me 🌟
+I am a highly motivated Bachelor of Computer Applications (BCA) graduate with a strong passion for software development, web technologies, and computer systems. Throughout my academic journey, I have built a solid foundation in programming, database management, and software development principles. 
+
+I enjoy transforming ideas into functional applications and combining functionality with aesthetics to build high-performing web experiences. As an aspiring Software Developer, I thrive in collaborative environments, value continuous improvement, and am always eager to take on new challenges that contribute to both personal and professional growth. 
